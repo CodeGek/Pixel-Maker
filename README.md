@@ -1,4 +1,5 @@
 # Pixel Art Maker Project
+Pixel Art Maker is a fun and interactive web application that allows you to create pixel art by coloring individual cells in a grid. This project is built with JavaScript and HTML, making it easy to use and customize. Unleash your creativity and start designing pixel art!
 
 ## Table of Contents
 
